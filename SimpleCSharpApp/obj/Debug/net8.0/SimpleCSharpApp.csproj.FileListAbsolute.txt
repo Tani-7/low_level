@@ -1,0 +1,15 @@
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.exe
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.deps.json
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.dll
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.pdb
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.sourcelink.json
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.dll
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\refint\SimpleCSharpApp.dll
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.pdb
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Anfangen\Pro_C#\SimpleCSharpApp\obj\Debug\net8.0\ref\SimpleCSharpApp.dll
